@@ -1,7 +1,12 @@
 # japanese-learning
 [一起学日语](AI/App.md): 推荐下自己vibe coding的日语学习app，支持AI对话，带实时转录和会话记录。app里的每个句子都支持假名和罗马音，点击查词，语法解析，朗读跟读。随时随地呼叫AI助手答疑。标日初级和中级的课文语法词汇。Anki背单词，podcast听力带字幕。句子语法分析，口语跟读评分。mdx词典本地+网络查词。JLPT历年真题。NHK Easy News和青空文库阅读。
 
-https://github.com/user-attachments/assets/9abd1bb9-a03e-48c9-b49e-c6b7f5498f77
+
+
+https://github.com/user-attachments/assets/894cab79-b6de-46fa-ab76-0f4a78a07c9b
+
+
+
 
 Japanese Learning Resource 收集的日语学习资源.
 
